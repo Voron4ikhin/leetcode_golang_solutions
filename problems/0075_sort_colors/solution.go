@@ -1,6 +1,6 @@
 package _075_sort_colors
 
-func SortColors(nums []int) {
+func SortColors(nums []int) []int {
 	countRed := 0
 	countWhite := 0
 	countBlue := 0
@@ -35,4 +35,6 @@ func SortColors(nums []int) {
 			continue
 		}
 	}
+
+	return nums
 }
