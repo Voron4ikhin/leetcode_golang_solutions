@@ -1,33 +1,33 @@
 package _031_next_permutation
 
-import (
-	"slices"
-)
-
 func NextPermutation(nums []int) []int {
-	index := 0
-	for i := 1; i < len(nums); i++ {
-		if nums[i] > nums[index] {
-			index = i
-		}
+	n := len(nums)
+	if n <= 1 {
+		return nums
 	}
 
-	if index != 0 {
-		slices.Sort(nums[index:])
-		Swap(nums, index)
-	} else {
-		slices.Sort(nums)
+	i := n - 2
+	for i >= 0 && nums[i] >= nums[i+1] {
+		i--
 	}
+
+	if i >= 0 {
+		j := n - 1
+		for nums[j] <= nums[i] {
+			j--
+		}
+		nums[i], nums[j] = nums[j], nums[i]
+	}
+
+	reverse(nums, i+1, n-1)
 
 	return nums
 }
 
-func Swap(nums []int, i int) {
-	indexToSwap := i - 1
-	for nums[i] < nums[indexToSwap] {
-		i++
+func reverse(nums []int, start, end int) {
+	for start < end {
+		nums[start], nums[end] = nums[end], nums[start]
+		start++
+		end--
 	}
-	value := nums[i]
-	nums[i] = nums[indexToSwap]
-	nums[indexToSwap] = value
 }
