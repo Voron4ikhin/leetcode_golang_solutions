@@ -34,7 +34,7 @@ go test -v // запуск тестов
 - [x] [20. Valid Parentheses](problems/0020_valid_parentheses)
 - [x] [21. Merge Two Sorted Lists](problems/0021_merge_two_sorted_lists)
 - [ ] [22. Generate Parentheses](problems/0022_generate_parentheses)
-- [ ] [23. Merge k Sorted Lists](problems/0023_merge_k_sorted_lists)
+- [x] [23. Merge k Sorted Lists](problems/0023_merge_k_sorted_lists)
 - [ ] [24. Swap Nodes in Pairs](problems/0024_swap_nodes_in_pairs)
 - [ ] [25. Reverse Nodes in k-Group](problems/0025_reverse_nodes_in_k_group)
 - [ ] [26. Remove Duplicates from Sorted Array](problems/0026_remove_duplicates_from_sorted_array)
