@@ -122,6 +122,7 @@ go test -v // запуск тестов
 - [x] [206. Reverse Linked List](problems/0206_reverse_linked_list)
 - [x] [217. Contains Duplicate](problems/0217_contains_duplicate)
 - [x] [228. Summary Ranges](problems/0228_summary_ranges)
+- [x] [238. Product of Array Except Self](problems/0238_product_of_array_except_self)
 - [x] [242. Valid Anagram](problems/0242_valid_anagram)
 - [x] [424. Longest Repeating Character Replacement](problems/0424_longest_repeating_character_replacement)
 - [x] [849. Maximize Distance to Closest Person](problems/0849_maximize_distance_to_closest_person)
