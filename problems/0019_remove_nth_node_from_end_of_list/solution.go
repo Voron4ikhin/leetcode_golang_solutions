@@ -19,7 +19,7 @@ func RemoveNthFromEnd(head *structures.ListNode, n int) *structures.ListNode {
 		fast = fast.Next
 	}
 
-	slow.Next = fast
+	slow.Next = slow.Next.Next
 
 	return dummy.Next
 }
