@@ -30,7 +30,7 @@ go test -v // запуск тестов
 - [ ] [16. 3Sum Closest](problems/0016_3_sum_closest)
 - [ ] [17. Letter Combinations of a Phone Number](problems/0017_letter_combinations_of_a_phone_number)
 - [ ] [18. 4Sum](problems/0018_4_sum)
-- [ ] [19. Remove Nth Node From End of List](problems/0019_remove_nth_node_from_end_of_list)
+- [x] [19. Remove Nth Node From End of List](problems/0019_remove_nth_node_from_end_of_list)
 - [x] [20. Valid Parentheses](problems/0020_valid_parentheses)
 - [x] [21. Merge Two Sorted Lists](problems/0021_merge_two_sorted_lists)
 - [ ] [22. Generate Parentheses](problems/0022_generate_parentheses)
