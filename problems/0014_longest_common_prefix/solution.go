@@ -1,0 +1,5 @@
+package _014_longest_common_prefix
+
+func LongestCommonPrefix(strs []string) string {
+	return ""
+}
