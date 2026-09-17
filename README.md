@@ -32,7 +32,7 @@ go test -v // запуск тестов
 - [ ] [18. 4Sum](problems/0018_4_sum)
 - [ ] [19. Remove Nth Node From End of List](problems/0019_remove_nth_node_from_end_of_list)
 - [x] [20. Valid Parentheses](problems/0020_valid_parentheses)
-- [ ] [21. Merge Two Sorted Lists](problems/0021_merge_two_sorted_lists)
+- [x] [21. Merge Two Sorted Lists](problems/0021_merge_two_sorted_lists)
 - [ ] [22. Generate Parentheses](problems/0022_generate_parentheses)
 - [ ] [23. Merge k Sorted Lists](problems/0023_merge_k_sorted_lists)
 - [ ] [24. Swap Nodes in Pairs](problems/0024_swap_nodes_in_pairs)
