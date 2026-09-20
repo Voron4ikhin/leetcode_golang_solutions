@@ -109,7 +109,7 @@ go test -v // запуск тестов
 - [ ] [95. Unique Binary Search Trees II](problems/0095_unique_binary_search_trees_ii)
 - [ ] [96. Unique Binary Search Trees](problems/0096_unique_binary_search_trees)
 - [ ] [97. Interleaving String](problems/0097_interleaving_string)
-- [ ] [98. Validate Binary Search Tree](problems/0098_validate_binary_search_tree)
+- [x] [98. Validate Binary Search Tree](problems/0098_validate_binary_search_tree)
 - [ ] [99. Recover Binary Search Tree](problems/0099_recover_binary_search_tree)
 - [ ] [100. Same Tree](problems/0100_same_tree)
 - [x] [104. Maximum Depth of Binary Tree](problems/0104_maximum_depth_of_binary_tree)
