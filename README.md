@@ -116,6 +116,7 @@ go test -v // запуск тестов
 - [x] [121. Best Time to Buy and Sell Stock](problems/0121_best_time_to_buy_sell_stocks)
 - [x] [136. Single Number](problems/0136_single_number)
 - [x] [141. Linked List Cycle](problems/0141_linked_list_cycle)
+- [x] [153. Find Minimum in Rotated Sorted Array](problems/0153_find_minimum_in_rotated_sorted_array)
 - [x] [160. Intersection of Two Linked Lists](problems/0160_intersection_of_two_linked_lists)
 - [x] [169. Majority Element](problems/0169_majority_element)
 - [x] [200. Number of Islands](problems/0200_numbers_of_islands)
