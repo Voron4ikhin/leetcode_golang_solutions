@@ -44,7 +44,7 @@ go test -v // запуск тестов
 - [ ] [30. Substring with Concatenation of All Words](problems/0030_substring_with_concatenation_of_all_words)
 - [x] [31. Next Permutation](problems/0031_next_permutation)
 - [ ] [32. Longest Valid Parentheses](problems/0032_longest_valid_parentheses)
-- [ ] [33. Search in Rotated Sorted Array](problems/0033_search_in_rotated_sorted_array)
+- [x] [33. Search in Rotated Sorted Array](problems/0033_search_in_rotated_sorted_array)
 - [ ] [34. Find First and Last Position of Element in Sorted Array](problems/0034_find_first_and_last_position_of_element_in_sorted_array)
 - [x] [35. Search Insert Position](problems/0035_search_insert_position)
 - [ ] [36. Valid Sudoku](problems/0036_valid_sudoku)
