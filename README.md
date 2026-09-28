@@ -112,6 +112,7 @@ go test -v // запуск тестов
 - [x] [98. Validate Binary Search Tree](problems/0098_validate_binary_search_tree)
 - [ ] [99. Recover Binary Search Tree](problems/0099_recover_binary_search_tree)
 - [ ] [100. Same Tree](problems/0100_same_tree)
+- [x] [102. Binary Tree Level Order Traversal](problems/0102_binary_tree_level_order_traversal)
 - [x] [104. Maximum Depth of Binary Tree](problems/0104_maximum_depth_of_binary_tree)
 - [x] [121. Best Time to Buy and Sell Stock](problems/0121_best_time_to_buy_sell_stocks)
 - [x] [136. Single Number](problems/0136_single_number)
