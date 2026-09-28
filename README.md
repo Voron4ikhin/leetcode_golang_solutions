@@ -67,7 +67,7 @@ go test -v // запуск тестов
 - [x] [53. Maximum Subarray](problems/0053_maximum_subarray)
 - [ ] [54. Spiral Matrix](problems/0054_spiral_matrix)
 - [ ] [55. Jump Game](problems/0055_jump_game)
-- [ ] [56. Merge Intervals](problems/0056_merge_intervals)
+- [x] [56. Merge Intervals](problems/0056_merge_intervals)
 - [ ] [57. Insert Interval](problems/0057_insert_interval)
 - [ ] [58. Length of Last Word](problems/0058_length_of_last_word)
 - [ ] [59. Spiral Matrix II](problems/0059_spiral_matrix_ii)
